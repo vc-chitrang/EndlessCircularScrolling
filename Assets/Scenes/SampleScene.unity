@@ -314,7 +314,6 @@ MonoBehaviour:
   _nextButton: {fileID: 1326796407}
   _previousButton: {fileID: 1257983659}
   _status: {fileID: 642271822}
-  concatenatedList: []
 --- !u!4 &132931653
 Transform:
   m_ObjectHideFlags: 0
